@@ -4,7 +4,7 @@ import java.util.Scanner;
 public class Main {
 
     // PUT YOUR TELEGRAM TOKEN HERE
-    static final String BOT_TOKEN = "YOUR_BOT_TOKEN_HERE";
+    static final String BOT_TOKEN = "8953428431:AAE-zN5D1wAZdUz0FfJH5k_ucrv-ZGGWEJI";
 
     public static void main(String[] args) {
 
